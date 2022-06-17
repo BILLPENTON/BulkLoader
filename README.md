@@ -20,3 +20,4 @@ Telegram Bot to Bulk Downloading list of urls and Upload to Telegram.
 
 #### LICENSE
 - GPLv3
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
